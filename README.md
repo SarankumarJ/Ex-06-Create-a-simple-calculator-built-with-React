@@ -1,4 +1,4 @@
-# Ex-06-Create-a-simple-calculator-built-with-React
+# Ex-12 Create a simple calculator built with React
 ## Aim:-
 To Create a simple calculator built with React
 ## Algorithm:-
@@ -13,6 +13,8 @@ Create the button click handler
 ### Step 5:
 Create the calculate and clear function
 ## Program:-
+#### Developed By : Sarankumar J
+#### Register Number : 212221230087
 ```js
 import React, { useState } from 'react';
 
